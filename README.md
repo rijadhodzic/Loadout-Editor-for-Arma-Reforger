@@ -1,13 +1,13 @@
-# Loadout Editor — Arma Reforger Mod
+# Loadout Editor - Arma Reforger Mod
 
 A multiplayer-compatible loadout editor accessible directly from the in-game arsenal. Build, save, and apply full gear presets without leaving the arsenal screen.
 
 ## Features
 
-- **Full gear editing** — primary/secondary weapon, launcher, uniform, vest, backpack, headgear, facewear, misc items
-- **Named presets** — save up to 20 presets per player, stored locally in your profile
-- **Arsenal-aware** — only shows items available in the current arsenal's pool
-- **Multiplayer safe** — all item application is server-validated via RPC
+- **Full gear editing** - primary/secondary weapon, launcher, uniform, vest, backpack, headgear, facewear, misc items
+- **Named presets** - save up to 20 presets per player, stored locally in your profile
+- **Arsenal-aware** - only shows items available in the current arsenal's pool
+- **Multiplayer safe** - all item application is server-validated via RPC
 
 ## Installation
 
